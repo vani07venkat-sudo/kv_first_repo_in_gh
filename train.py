@@ -1,1 +1,1 @@
-'print("add train data"), 
+'print("add code to train file"), 
